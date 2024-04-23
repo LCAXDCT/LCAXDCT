@@ -4,10 +4,10 @@
 - Estudante de Programação com foco atual em front-end
 - Meus interesses são desenvolvimento de sites
 
+<img align="center" alt="Lucas img" height="200" width="200" src="https://github.com/LCAXDCT/LCAXDCT/assets/167881428/e241b564-89db-4104-9329-125ad6a97a38">
 
-![LCAXDCT's GitHub stats](https://github-readme-stats.vercel.app/api?username=LCAXDCT&show_icons=true&theme=tokyonight&hide_border=true)
+![LCAXDCT's GitHub stats](https://github-readme-stats.vercel.app/api?username=LCAXDCT&show_icons=true&theme=tokyonight&hide_border=true) 
 
-<img align="center" alt="Lucas img" height="30" width="40" src="">
 
 ##
 
